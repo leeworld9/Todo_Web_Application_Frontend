@@ -8,6 +8,6 @@
 ### 1-2. 회원가입
 <img src="https://i.ibb.co/JvtGkCS/2022-05-04-1-50-38.png" width="70%"></img><br/>
 
-### 1-3. Todo ㅈ등록/수정/삭제
+### 1-3. Todo 등록/수정/삭제
 <img src="https://i.ibb.co/Dr3Lrgk/2022-05-04-1-52-43.png" width="70%"></img><br/>
 
